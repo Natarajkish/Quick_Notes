@@ -1,0 +1,5 @@
+QuickNotes/
+│
+├── index.html # Main webpage structure
+├── style.css # App styling
+├── app.js # JavaScript logic and Firebase code
