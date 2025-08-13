@@ -1,12 +1,12 @@
 // Firebase config
 const firebaseConfig = {
-  apiKey: "AIzaSyDCkOz1QMGZYs1Ul_x1YhmeN-P3MoMkix0",
-  authDomain: "new-project-97cd5.firebaseapp.com",
-  projectId: "new-project-97cd5",
-  storageBucket: "new-project-97cd5.firebasestorage.app",
-  messagingSenderId: "139312060050",
-  appId: "1:139312060050:web:22a5cdcaf32a218684b84b",
-  measurementId: "G-TT9E8FS2W4"
+  apiKey: "",
+  authDomain: "",
+  projectId: ",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize
